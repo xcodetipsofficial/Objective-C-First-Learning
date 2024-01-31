@@ -18,6 +18,7 @@
 		AB8644852B60375100236770 /* helloWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8644842B60375100236770 /* helloWorld.m */; };
 		AB8644872B6037E500236770 /* sampleClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8644862B6037E500236770 /* sampleClass.m */; };
 		ABAFFEEB2B61CB8000ADD895 /* tokensClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABAFFEEA2B61CB8000ADD895 /* tokensClass.m */; };
+		ABBE732A2B6AF9BC00E7C97A /* desicionClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABBE73292B6AF9BC00E7C97A /* desicionClass.m */; };
 		ABE795F92B68D5630038D47A /* operatorsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABE795F82B68D5630038D47A /* operatorsClass.m */; };
 		ABE795FB2B696D4D0038D47A /* loopsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABE795FA2B696D4D0038D47A /* loopsClass.m */; };
 /* End PBXBuildFile section */
@@ -39,6 +40,7 @@
 		AB8644842B60375100236770 /* helloWorld.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = helloWorld.m; sourceTree = "<group>"; };
 		AB8644862B6037E500236770 /* sampleClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sampleClass.m; sourceTree = "<group>"; };
 		ABAFFEEA2B61CB8000ADD895 /* tokensClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tokensClass.m; sourceTree = "<group>"; };
+		ABBE73292B6AF9BC00E7C97A /* desicionClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = desicionClass.m; sourceTree = "<group>"; };
 		ABE795F82B68D5630038D47A /* operatorsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = operatorsClass.m; sourceTree = "<group>"; };
 		ABE795FA2B696D4D0038D47A /* loopsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = loopsClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -90,6 +92,7 @@
 				AB304A9F2B658B0D005C32D6 /* constantsClass.m */,
 				ABE795F82B68D5630038D47A /* operatorsClass.m */,
 				ABE795FA2B696D4D0038D47A /* loopsClass.m */,
+				ABBE73292B6AF9BC00E7C97A /* desicionClass.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				AB86447D2B60361800236770 /* main.m in Sources */,
 				ABE795F92B68D5630038D47A /* operatorsClass.m in Sources */,
 				AB8644872B6037E500236770 /* sampleClass.m in Sources */,
+				ABBE732A2B6AF9BC00E7C97A /* desicionClass.m in Sources */,
 				AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */,
 				AB86446F2B60361700236770 /* SceneDelegate.m in Sources */,
 			);
