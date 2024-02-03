@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB304A9F2B658B0D005C32D6 /* constantsClass.m */; };
+		AB6E1E132B6EFA0A00AAE72B /* blocksClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */; };
 		AB77A72E2B6CBBB0001E5602 /* functionsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB77A72D2B6CBBB0001E5602 /* functionsClass.m */; };
 		AB86446C2B60361700236770 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AB86446B2B60361700236770 /* AppDelegate.m */; };
 		AB86446F2B60361700236770 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AB86446E2B60361700236770 /* SceneDelegate.m */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		AB304A9F2B658B0D005C32D6 /* constantsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = constantsClass.m; sourceTree = "<group>"; };
+		AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = blocksClass.m; sourceTree = "<group>"; };
 		AB77A72D2B6CBBB0001E5602 /* functionsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = functionsClass.m; path = "HelloWorldObj-C/functionsClass.m"; sourceTree = "<group>"; };
 		AB8644672B60361700236770 /* HelloWorldObj-C.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HelloWorldObj-C.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB86446A2B60361700236770 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				ABE795F82B68D5630038D47A /* operatorsClass.m */,
 				ABE795FA2B696D4D0038D47A /* loopsClass.m */,
 				ABBE73292B6AF9BC00E7C97A /* desicionClass.m */,
+				AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB6E1E132B6EFA0A00AAE72B /* blocksClass.m in Sources */,
 				ABE795FB2B696D4D0038D47A /* loopsClass.m in Sources */,
 				AB8644722B60361700236770 /* ViewController.m in Sources */,
 				ABAFFEEB2B61CB8000ADD895 /* tokensClass.m in Sources */,
