@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB304A9F2B658B0D005C32D6 /* constantsClass.m */; };
+		AB448AE62B70ACBF00A9A780 /* numbersClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB448AE52B70ACBF00A9A780 /* numbersClass.m */; };
 		AB6E1E132B6EFA0A00AAE72B /* blocksClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */; };
 		AB77A72E2B6CBBB0001E5602 /* functionsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB77A72D2B6CBBB0001E5602 /* functionsClass.m */; };
 		AB86446C2B60361700236770 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AB86446B2B60361700236770 /* AppDelegate.m */; };
@@ -27,8 +28,9 @@
 
 /* Begin PBXFileReference section */
 		AB304A9F2B658B0D005C32D6 /* constantsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = constantsClass.m; sourceTree = "<group>"; };
+		AB448AE52B70ACBF00A9A780 /* numbersClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = numbersClass.m; sourceTree = "<group>"; };
 		AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = blocksClass.m; sourceTree = "<group>"; };
-		AB77A72D2B6CBBB0001E5602 /* functionsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = functionsClass.m; path = "HelloWorldObj-C/functionsClass.m"; sourceTree = "<group>"; };
+		AB77A72D2B6CBBB0001E5602 /* functionsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = functionsClass.m; sourceTree = "<group>"; };
 		AB8644672B60361700236770 /* HelloWorldObj-C.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HelloWorldObj-C.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB86446A2B60361700236770 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AB86446B2B60361700236770 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -63,7 +65,6 @@
 		AB86445E2B60361700236770 = {
 			isa = PBXGroup;
 			children = (
-				AB77A72D2B6CBBB0001E5602 /* functionsClass.m */,
 				AB8644692B60361700236770 /* HelloWorldObj-C */,
 				AB8644682B60361700236770 /* Products */,
 			);
@@ -99,6 +100,8 @@
 				ABE795FA2B696D4D0038D47A /* loopsClass.m */,
 				ABBE73292B6AF9BC00E7C97A /* desicionClass.m */,
 				AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */,
+				AB448AE52B70ACBF00A9A780 /* numbersClass.m */,
+				AB77A72D2B6CBBB0001E5602 /* functionsClass.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				AB86447D2B60361800236770 /* main.m in Sources */,
 				ABE795F92B68D5630038D47A /* operatorsClass.m in Sources */,
 				AB8644872B6037E500236770 /* sampleClass.m in Sources */,
+				AB448AE62B70ACBF00A9A780 /* numbersClass.m in Sources */,
 				ABBE732A2B6AF9BC00E7C97A /* desicionClass.m in Sources */,
 				AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */,
 				AB77A72E2B6CBBB0001E5602 /* functionsClass.m in Sources */,
