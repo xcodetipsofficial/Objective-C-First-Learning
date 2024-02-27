@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB0A5AF92B780274001DE9C5 /* structuresClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB0A5AF82B780274001DE9C5 /* structuresClass.m */; };
+		AB1BBB502B8D8BE3003987C0 /* typedefClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */; };
 		AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB304A9F2B658B0D005C32D6 /* constantsClass.m */; };
 		AB448AE62B70ACBF00A9A780 /* numbersClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB448AE52B70ACBF00A9A780 /* numbersClass.m */; };
 		AB448AE82B71C0E300A9A780 /* arraysClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB448AE72B71C0E300A9A780 /* arraysClass.m */; };
@@ -33,6 +34,7 @@
 
 /* Begin PBXFileReference section */
 		AB0A5AF82B780274001DE9C5 /* structuresClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = structuresClass.m; sourceTree = "<group>"; };
+		AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = typedefClass.m; sourceTree = "<group>"; };
 		AB304A9F2B658B0D005C32D6 /* constantsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = constantsClass.m; sourceTree = "<group>"; };
 		AB448AE52B70ACBF00A9A780 /* numbersClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = numbersClass.m; sourceTree = "<group>"; };
 		AB448AE72B71C0E300A9A780 /* arraysClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = arraysClass.m; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				ABB4BBF72B753E06005B0436 /* stringsClass.m */,
 				AB0A5AF82B780274001DE9C5 /* structuresClass.m */,
 				ABD5E1032B7F47C50007A76D /* preprocessorClass.m */,
+				AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				AB8644852B60375100236770 /* helloWorld.m in Sources */,
 				ABB4BBF82B753E06005B0436 /* stringsClass.m in Sources */,
 				AB86446C2B60361700236770 /* AppDelegate.m in Sources */,
+				AB1BBB502B8D8BE3003987C0 /* typedefClass.m in Sources */,
 				AB448AE82B71C0E300A9A780 /* arraysClass.m in Sources */,
 				AB86447D2B60361800236770 /* main.m in Sources */,
 				ABD5E1042B7F47C50007A76D /* preprocessorClass.m in Sources */,
