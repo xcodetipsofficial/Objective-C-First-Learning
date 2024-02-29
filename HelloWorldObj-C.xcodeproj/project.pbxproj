@@ -13,6 +13,7 @@
 		AB448AE62B70ACBF00A9A780 /* numbersClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB448AE52B70ACBF00A9A780 /* numbersClass.m */; };
 		AB448AE82B71C0E300A9A780 /* arraysClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB448AE72B71C0E300A9A780 /* arraysClass.m */; };
 		AB54C8462B7337A500F9F1C0 /* pointersClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB54C8452B7337A500F9F1C0 /* pointersClass.m */; };
+		AB597DE32B8FC2B000D47C46 /* typecastClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB597DE22B8FC2B000D47C46 /* typecastClass.m */; };
 		AB6E1E132B6EFA0A00AAE72B /* blocksClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */; };
 		AB77A72E2B6CBBB0001E5602 /* functionsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB77A72D2B6CBBB0001E5602 /* functionsClass.m */; };
 		AB86446C2B60361700236770 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AB86446B2B60361700236770 /* AppDelegate.m */; };
@@ -39,6 +40,7 @@
 		AB448AE52B70ACBF00A9A780 /* numbersClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = numbersClass.m; sourceTree = "<group>"; };
 		AB448AE72B71C0E300A9A780 /* arraysClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = arraysClass.m; sourceTree = "<group>"; };
 		AB54C8452B7337A500F9F1C0 /* pointersClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pointersClass.m; sourceTree = "<group>"; };
+		AB597DE22B8FC2B000D47C46 /* typecastClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = typecastClass.m; sourceTree = "<group>"; };
 		AB6E1E122B6EFA0A00AAE72B /* blocksClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = blocksClass.m; sourceTree = "<group>"; };
 		AB77A72D2B6CBBB0001E5602 /* functionsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = functionsClass.m; sourceTree = "<group>"; };
 		AB8644672B60361700236770 /* HelloWorldObj-C.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HelloWorldObj-C.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -120,6 +122,7 @@
 				AB0A5AF82B780274001DE9C5 /* structuresClass.m */,
 				ABD5E1032B7F47C50007A76D /* preprocessorClass.m */,
 				AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */,
+				AB597DE22B8FC2B000D47C46 /* typecastClass.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 				AB77A72E2B6CBBB0001E5602 /* functionsClass.m in Sources */,
 				AB0A5AF92B780274001DE9C5 /* structuresClass.m in Sources */,
 				AB86446F2B60361700236770 /* SceneDelegate.m in Sources */,
+				AB597DE32B8FC2B000D47C46 /* typecastClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
