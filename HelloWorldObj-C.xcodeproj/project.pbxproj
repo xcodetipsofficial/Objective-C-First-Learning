@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		AB0A5AF92B780274001DE9C5 /* structuresClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB0A5AF82B780274001DE9C5 /* structuresClass.m */; };
 		AB1BBB502B8D8BE3003987C0 /* typedefClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */; };
+		AB2F84412B927BAD00836951 /* nslogClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB2F84402B927BAD00836951 /* nslogClass.m */; };
+		AB2F84432B927CA100836951 /* errorhandlingClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB2F84422B927CA100836951 /* errorhandlingClass.m */; };
 		AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB304A9F2B658B0D005C32D6 /* constantsClass.m */; };
 		AB448AE62B70ACBF00A9A780 /* numbersClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB448AE52B70ACBF00A9A780 /* numbersClass.m */; };
 		AB448AE82B71C0E300A9A780 /* arraysClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB448AE72B71C0E300A9A780 /* arraysClass.m */; };
@@ -36,6 +38,8 @@
 /* Begin PBXFileReference section */
 		AB0A5AF82B780274001DE9C5 /* structuresClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = structuresClass.m; sourceTree = "<group>"; };
 		AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = typedefClass.m; sourceTree = "<group>"; };
+		AB2F84402B927BAD00836951 /* nslogClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = nslogClass.m; sourceTree = "<group>"; };
+		AB2F84422B927CA100836951 /* errorhandlingClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = errorhandlingClass.m; sourceTree = "<group>"; };
 		AB304A9F2B658B0D005C32D6 /* constantsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = constantsClass.m; sourceTree = "<group>"; };
 		AB448AE52B70ACBF00A9A780 /* numbersClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = numbersClass.m; sourceTree = "<group>"; };
 		AB448AE72B71C0E300A9A780 /* arraysClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = arraysClass.m; sourceTree = "<group>"; };
@@ -123,6 +127,8 @@
 				ABD5E1032B7F47C50007A76D /* preprocessorClass.m */,
 				AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */,
 				AB597DE22B8FC2B000D47C46 /* typecastClass.m */,
+				AB2F84402B927BAD00836951 /* nslogClass.m */,
+				AB2F84422B927CA100836951 /* errorhandlingClass.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -213,11 +219,13 @@
 				AB8644872B6037E500236770 /* sampleClass.m in Sources */,
 				AB448AE62B70ACBF00A9A780 /* numbersClass.m in Sources */,
 				ABBE732A2B6AF9BC00E7C97A /* desicionClass.m in Sources */,
+				AB2F84412B927BAD00836951 /* nslogClass.m in Sources */,
 				AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */,
 				AB77A72E2B6CBBB0001E5602 /* functionsClass.m in Sources */,
 				AB0A5AF92B780274001DE9C5 /* structuresClass.m in Sources */,
 				AB86446F2B60361700236770 /* SceneDelegate.m in Sources */,
 				AB597DE32B8FC2B000D47C46 /* typecastClass.m in Sources */,
+				AB2F84432B927CA100836951 /* errorhandlingClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
