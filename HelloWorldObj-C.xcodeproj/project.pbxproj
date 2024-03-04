@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB0A5AF92B780274001DE9C5 /* structuresClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB0A5AF82B780274001DE9C5 /* structuresClass.m */; };
+		AB0BCD292B95861000367C72 /* commandlineClas.m in Sources */ = {isa = PBXBuildFile; fileRef = AB0BCD282B95861000367C72 /* commandlineClas.m */; };
 		AB1BBB502B8D8BE3003987C0 /* typedefClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */; };
 		AB2F84412B927BAD00836951 /* nslogClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB2F84402B927BAD00836951 /* nslogClass.m */; };
 		AB2F84432B927CA100836951 /* errorhandlingClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB2F84422B927CA100836951 /* errorhandlingClass.m */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		AB0A5AF82B780274001DE9C5 /* structuresClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = structuresClass.m; sourceTree = "<group>"; };
+		AB0BCD282B95861000367C72 /* commandlineClas.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = commandlineClas.m; sourceTree = "<group>"; };
 		AB1BBB4F2B8D8BE3003987C0 /* typedefClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = typedefClass.m; sourceTree = "<group>"; };
 		AB2F84402B927BAD00836951 /* nslogClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = nslogClass.m; sourceTree = "<group>"; };
 		AB2F84422B927CA100836951 /* errorhandlingClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = errorhandlingClass.m; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				AB597DE22B8FC2B000D47C46 /* typecastClass.m */,
 				AB2F84402B927BAD00836951 /* nslogClass.m */,
 				AB2F84422B927CA100836951 /* errorhandlingClass.m */,
+				AB0BCD282B95861000367C72 /* commandlineClas.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				AB0A5AF92B780274001DE9C5 /* structuresClass.m in Sources */,
 				AB86446F2B60361700236770 /* SceneDelegate.m in Sources */,
 				AB597DE32B8FC2B000D47C46 /* typecastClass.m in Sources */,
+				AB0BCD292B95861000367C72 /* commandlineClas.m in Sources */,
 				AB2F84432B927CA100836951 /* errorhandlingClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
