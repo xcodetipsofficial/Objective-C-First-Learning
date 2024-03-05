@@ -28,6 +28,7 @@
 		AB86447D2B60361800236770 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AB86447C2B60361800236770 /* main.m */; };
 		AB8644852B60375100236770 /* helloWorld.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8644842B60375100236770 /* helloWorld.m */; };
 		AB8644872B6037E500236770 /* sampleClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8644862B6037E500236770 /* sampleClass.m */; };
+		ABA652452B96F3FC00AF6A7F /* classesobjectsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABA652442B96F3FC00AF6A7F /* classesobjectsClass.m */; };
 		ABAFFEEB2B61CB8000ADD895 /* tokensClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABAFFEEA2B61CB8000ADD895 /* tokensClass.m */; };
 		ABB4BBF82B753E06005B0436 /* stringsClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABB4BBF72B753E06005B0436 /* stringsClass.m */; };
 		ABBE732A2B6AF9BC00E7C97A /* desicionClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ABBE73292B6AF9BC00E7C97A /* desicionClass.m */; };
@@ -63,6 +64,7 @@
 		AB86447C2B60361800236770 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AB8644842B60375100236770 /* helloWorld.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = helloWorld.m; sourceTree = "<group>"; };
 		AB8644862B6037E500236770 /* sampleClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sampleClass.m; sourceTree = "<group>"; };
+		ABA652442B96F3FC00AF6A7F /* classesobjectsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = classesobjectsClass.m; sourceTree = "<group>"; };
 		ABAFFEEA2B61CB8000ADD895 /* tokensClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tokensClass.m; sourceTree = "<group>"; };
 		ABB4BBF72B753E06005B0436 /* stringsClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = stringsClass.m; sourceTree = "<group>"; };
 		ABBE73292B6AF9BC00E7C97A /* desicionClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = desicionClass.m; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				AB2F84402B927BAD00836951 /* nslogClass.m */,
 				AB2F84422B927CA100836951 /* errorhandlingClass.m */,
 				AB0BCD282B95861000367C72 /* commandlineClas.m */,
+				ABA652442B96F3FC00AF6A7F /* classesobjectsClass.m */,
 			);
 			path = "HelloWorldObj-C";
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 				ABBE732A2B6AF9BC00E7C97A /* desicionClass.m in Sources */,
 				AB2F84412B927BAD00836951 /* nslogClass.m in Sources */,
 				AB304AA02B658B0D005C32D6 /* constantsClass.m in Sources */,
+				ABA652452B96F3FC00AF6A7F /* classesobjectsClass.m in Sources */,
 				AB77A72E2B6CBBB0001E5602 /* functionsClass.m in Sources */,
 				AB0A5AF92B780274001DE9C5 /* structuresClass.m in Sources */,
 				AB86446F2B60361700236770 /* SceneDelegate.m in Sources */,
